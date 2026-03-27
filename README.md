@@ -3,6 +3,7 @@
 ## Live Deployment
 
 - **Frontend (Vercel)**: [https://full-stack-development-internship-tasks-nexus-platform.vercel.app](https://full-stack-development-internship-tasks-nexus-platform.vercel.app)
+ - **Frontend (Vercel)**: [https://full-stack-development-internship-tasks-nexus-platfo-lyqy3bzd.vercel.app](https://full-stack-development-internship-tasks-nexus-platfo-lyqy3bzd.vercel.app)
 - **Backend (Render)**: [https://full-stack-development-internship-tasks.onrender.com](https://full-stack-development-internship-tasks.onrender.com)
 
 ## Project Completion Verification
