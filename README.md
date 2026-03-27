@@ -1,5 +1,10 @@
 # Nexus Full Stack Project
 
+## Live Deployment
+
+- **Frontend (Vercel)**: [https://full-stack-development-internship-tasks-nexus-platform.vercel.app](https://full-stack-development-internship-tasks-nexus-platform.vercel.app)
+- **Backend (Render)**: [https://full-stack-development-internship-tasks.onrender.com](https://full-stack-development-internship-tasks.onrender.com)
+
 ## Project Completion Verification
 
 This project fulfills the full stack internship requirements for Nexus.
